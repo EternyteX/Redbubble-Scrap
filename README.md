@@ -3,7 +3,7 @@
 A lightweight Selenium-based tool to automatically scrape preview images from Redbubble search results.  
 The tool opens the search page, grabs product thumbnails, converts them to large image URLs, and downloads each image to a local folder.
 
-Created with ❤️ by **Ethernyte**
+Created with ❤️ by **EternyteX**
 
 ---
 
@@ -98,7 +98,7 @@ simple-redbubble-scraper/
  / _, _/ /  __// /_/ /   / /_/ // /_/ /  / /_/ / / /_/ / / /  /  __/
 /_/ |_|  \___/ \__,_/   /_.___/ \__,_/  /_.___/ /_.___/ /_/   \___/
 
-by Ethernyte
+by EternyteX
 ```
 
 ---
@@ -115,7 +115,7 @@ pyfiglet
 
 ## ☕ Credits
 
-Built by [**Ethernyte**](https://github.com/Ethernyte)
+Built by [**EternyteX**](https://github.com/EternyteX)
 
 ---
 
