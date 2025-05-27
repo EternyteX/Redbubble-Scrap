@@ -83,7 +83,7 @@ class SimpleRedbubbleScraper:
 
 def main():
     tprint("Redbubble", font="slant")
-    print("by Ethernyte\n")
+    print("by EternyteX\n")
 
     driver_path = input("Enter full path to chromedriver: ").strip()
     if not os.path.isfile(driver_path):
