@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+
+# VS Code / PyCharm config
+.vscode/
+.idea/
+
+# macOS / Linux / Windows OS files
+.DS_Store
+Thumbs.db
+
+# Image download output folder
+images/
+
+# Log files
+*.log
+
+# ChromeDriver backups
+chromedriver.log
+
+# Ignore compiled files
+*.exe
+*.out
+*.bin
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+desktop.ini
